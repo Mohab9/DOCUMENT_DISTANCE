@@ -1,0 +1,20 @@
+D:\Algo\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Algo\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Algo\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Algo\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Algo\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Algo\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\Algo\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.SuggestedBindingRedirects.cache
+D:\Algo\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Algo\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Algo\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
+D:\Algo ASS\ASS1\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Algo ASS\ASS1\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Algo ASS\ASS1\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Algo ASS\ASS1\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Algo ASS\ASS1\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Algo ASS\ASS1\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.AssemblyReference.cache
+D:\Algo ASS\ASS1\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.SuggestedBindingRedirects.cache
+D:\Algo ASS\ASS1\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Algo ASS\ASS1\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Algo ASS\ASS1\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
